@@ -1,2 +1,3 @@
-# snehakadligondi.github.io
-This is a static website deployed using GitHub Pages.   Repository name is snehakadligondi.github.io and the live site is hosted at https://snehakadligondi.github.io
+# My Portfolio
+Live site: https://snehakadligondi.github.io
+This repository contains a static website deployed via GitHub Pages.
